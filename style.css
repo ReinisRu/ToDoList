@@ -17,6 +17,7 @@ textarea {
   margin: 5px;
   padding: 7px;
   border: 2px solid rgb(69, 199, 54);
+  border-radius: 15px;
   background: rgba(128, 250, 114, 0.411);
   display: flex;
   justify-content: space-between;
